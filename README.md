@@ -1,2 +1,2 @@
 # Firebase-in-Windows-Store-App
-using firebase to insert data from universal windows app
+using universal windows app to insert data into Firebase
