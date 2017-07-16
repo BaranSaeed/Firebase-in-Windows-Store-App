@@ -49,11 +49,11 @@ namespace FirebaseExample
             function f(){
             // Initialize Firebase
             var config = {
-            apiKey: 'AIzaSyDVGR68MY0hlGaWMWKdGHJpYHrvWa5acIM',
-            authDomain: 'baran005-305bf.firebaseapp.com',
-            databaseURL: 'https://baran005-305bf.firebaseio.com',
-            storageBucket: 'baran005-305bf.appspot.com',
-            messagingSenderId: '233320410108'
+            apiKey: 'APi-Key',
+            authDomain: 'Your-App.firebaseapp.com',
+            databaseURL: 'https://Your-App.firebaseio.com',
+            storageBucket: 'Your-App.appspot.com',
+            messagingSenderId: 'Sender-ID'
             };
             firebase.initializeApp(config);
 
